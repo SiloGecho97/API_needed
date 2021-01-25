@@ -24,7 +24,6 @@
 
 - [About](#about)
 - [API needed ](#Api_needed)
-- [API Description](#deployment)
 - [Authors](#authors)
 
 ## 🧐 About <a name = "about"></a>
@@ -112,14 +111,14 @@ This may include
 4. etc
 ```
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ WIll Be built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
+- [MySQl](https://www.mysql.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@silogecho97](https://github.com/silogecho97) - Idea & Initial work
+- [@silogecho97](https://github.com/silogecho97) - 
 
 
