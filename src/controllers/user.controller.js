@@ -12,7 +12,7 @@ function createUser(req, res, next) {
 }
 
 async function createUserHandler(body) {
-  console.log(body);
+  // console.log(body);
   return await userService.createUser(body);
 }
 
