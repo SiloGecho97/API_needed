@@ -68,6 +68,7 @@ Below are game related APIs
 Create Game,POST
 fields { location,date,startTime,price,userId }
 ```
+Get List Locations(on time of create)
 
 ```
 Search Game,GET
@@ -88,8 +89,14 @@ Game Suggestion nearyby
 Select nearyby Games, GET
 field { GameName, time }
 ```
+Join the Game
+```
+Join the game, PUT
+field { gameId,userId, role }
 
+List of Player in statics
 
+```
 Show User matches List
 ```
 Machtes GET
