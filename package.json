@@ -1,0 +1,36 @@
+{
+  "name": "iminn",
+  "version": "1.0.0",
+  "description": "iminn api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiloGecho97/API_needed.git"
+  },
+  "author": "silas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiloGecho97/API_needed/issues"
+  },
+  "homepage": "https://github.com/SiloGecho97/API_needed#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.4.0",
+    "validator": "^13.5.2",
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
